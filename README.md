@@ -19,3 +19,18 @@ Python, Postgres
 
 - List all available places
 - Add places
+
+## Usage
+
+Run the interactive console:
+
+```bash
+python console.py
+```
+
+Basic commands:
+
+- `help` or `?`: list commands
+- `list_places`: list all places (placeholder)
+- `add_place <name>`: add a new place (placeholder)
+- `quit` or `Ctrl+Z` then Enter (Windows): exit the console
