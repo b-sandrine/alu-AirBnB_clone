@@ -1,1 +1,0 @@
-print("Welcome to our HBNB console application!")
